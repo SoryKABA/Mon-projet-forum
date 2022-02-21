@@ -1,0 +1,21 @@
+.div 
+{
+    margin: 0px auto;
+    background-color: rgba(117, 126, 212, 0.8);
+    width: 30vw;
+    height: 40vh;
+    padding: 10px;
+}
+/* form 
+{
+    margin-top: 40px;
+} */
+.btn-primary 
+{
+    margin: auto 150px;
+}
+.fs-3 
+{
+    color: #fef;
+    text-align: center;
+}

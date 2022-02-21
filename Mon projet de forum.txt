@@ -1,0 +1,17 @@
+Projet de mon forum
+
+1) Système d'inscription
+2) Système de connexion
+3) Sécurité d'authentification
+4) Système de déconnexion
+5) Publier une question
+6) Afficher les questions de l'utilisateur
+7) Modifier une question
+8) Supprimer une question
+9) Rechercher et afficher les questions du forum
+10) Accéder à une question du forum
+11) Répondre à une question
+12) Afficher le profil d'un utilisateur
+13) Modifier le profil de l'utilisateur
+13) Bannir un utilisateur
+14) Ecrire un message privé à un utilisateur
